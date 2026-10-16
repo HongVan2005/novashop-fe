@@ -258,7 +258,7 @@ a,button{transition:all .22s ease}
   border:1px dashed #ddd;
 }
 
-.admin-shell{background:#f6f6f7}
+.admin-shell{background:#FFF4CC}
 .admin-sidebar{
   width:248px;
   background:linear-gradient(180deg,#0b0b0c 0%,#151517 100%);
@@ -275,7 +275,7 @@ a,button{transition:all .22s ease}
   box-shadow:0 8px 20px rgba(0,0,0,.2);
 }
 .admin-side-bottom{border-top-color:#29292c}
-.admin-content{background:#f6f6f7}
+.admin-content{background:#FFF4CC}
 .admin-mobile-header{box-shadow:0 5px 20px rgba(0,0,0,.05)}
 
 .admin-topbar h1{color:#0c0c0d}
